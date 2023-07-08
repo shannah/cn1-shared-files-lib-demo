@@ -1,0 +1,4 @@
+= Shared Files Library Example
+
+This is an example application using the https://github.com/shannah/cn1-shared-files-lib[Codename One Shared Files Library].
+
